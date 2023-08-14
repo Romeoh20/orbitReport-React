@@ -1,4 +1,4 @@
-import styles from "./styling.css"
+import "./styling.css"
 import satData from "./satData"
 
 const Buttons = (props) => {

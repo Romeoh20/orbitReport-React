@@ -1,4 +1,4 @@
-import styles from "./styling.css"
+import "./styling.css"
 
 const Banner = () => {
     return (
